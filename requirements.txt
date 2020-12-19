@@ -29,7 +29,7 @@ mkl
 numpy==1.19.4
 olefile==0.46
 packaging==20.8
-Pillow @ file:///tmp/build/80754af9/pillow_1603822238230/work
+pillow==8.0.1
 protobuf==3.14.0
 pyparsing==2.4.7
 pytz==2020.4

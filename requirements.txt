@@ -25,7 +25,7 @@ Markdown==3.3.3
 MarkupSafe==1.1.1
 mkl-fft==1.0.6
 mkl-random==1.0.1.1
-mkl-service==2.3.0
+mkl
 numpy==1.19.4
 olefile==0.46
 packaging==20.8

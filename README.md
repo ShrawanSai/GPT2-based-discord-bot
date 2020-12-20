@@ -1,1 +1,1 @@
-# GPT2-Flask-Rest-API
+# GPT2-based-discord-bot
